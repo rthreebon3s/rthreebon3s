@@ -1,4 +1,5 @@
-My name is R3. You can find me on Youtube:
+Hello. I am an animator, but I also plan to be a game/software dev.
+You can find me on Youtube:
 https://www.youtube.com/channel/UCif83dDkokUnngpXCpULisg
-This Github account is the place where i upload my programs.
-I'm currently learning Python right now (Expect more soon!)
+This Github account is the place where I upload my programs.
+I'm currently learning Python and Arduino C++ right now (Expect more soon!)
