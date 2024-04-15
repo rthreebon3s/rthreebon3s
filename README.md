@@ -1,4 +1,10 @@
-### Hi there 👋
+Hello. I ~~am~~ was an animator, but I also plan(ned) to be a game/software dev.
+You can find me on Youtube:
+[https://www.youtube.com/@r3bones](@r3bones)
+
+This Github account is the place where I upload my programs.
+
+I'm currently learning Python and Arduino C++ right now (Expect ~~more~~ less soon!)
 
 <!--
 **rthreebon3s/rthreebon3s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
