@@ -1,10 +1,9 @@
-Hello. I ~~am~~ was an animator, but I also plan(ned) to be a game/software dev.
+There's a high chance you came from my Discord account.
 You can find me on Youtube:
 [https://www.youtube.com/@r3bones](@r3bones)
+It's kinda abandoned though so don't expect me to upload...
 
-This Github account is the place where I upload my programs.
-
-I'm currently learning Python and Arduino C++ right now (Expect ~~more~~ less soon!)
+This is where I was supposed to upload my programs here, but I just privated all of them.
 
 <!--
 **rthreebon3s/rthreebon3s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
